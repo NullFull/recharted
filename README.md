@@ -32,3 +32,9 @@
 
 * 잘못된 차트와 새로 그린 차트를 비교해서 볼 수 있게
 
+목록
+-------------------
+
+원본                         |  수정본
+:-------------------------:|:-------------------------:
+![](https://user-images.githubusercontent.com/21021139/47889649-5a822100-de8e-11e8-87d8-3ccda0fa5ddc.jpg)  |  ![](https://user-images.githubusercontent.com/21021139/47889638-49d1ab00-de8e-11e8-8e68-1dbb38211460.jpeg)
