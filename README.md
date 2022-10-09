@@ -8,7 +8,7 @@
 -------------------
 
 * 언론사들에서 잘못 그린 차트들 모아서 다시 그려보는 프로젝트.
-* 널채움 슬랙 #recharted 채널에서 떠듭니다. [초대링크](https://nullfull-slack-invite.herokuapp.com/)
+* 널채움 디스코드 #recharted 채널에서 떠듭니다. [초대링크](https://discord.gg/UZtgMcgSuM)
 
 
 방법
